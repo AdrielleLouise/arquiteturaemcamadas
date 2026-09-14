@@ -14,13 +14,6 @@ def buscar_manutencoes(nome):
     if manutencao["nome"] == nome:
       resultados.append(manutencao)
   return resultados
-def remover_equipamento(nome):
-  manutencoes_encontradas = buscar_manutencoes(nome)
-  if not manutencoes_encontradas:
-    return False
-  for manutencao in manutencoes_encontradas:
-    manutencoes.remove(manutencao)
-  return True
 def remover_manutencao(nome, tipo):
   manutencao = buscar_manutencao(nome, tipo)
   if manutencao:

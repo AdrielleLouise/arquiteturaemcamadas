@@ -29,7 +29,7 @@ while True:
         print("\nEquipamento:", resultado["nome"])
         print("Manutenção:", resultado["tipo"])
         print("Última manutenção:", resultado["ultima_manutencao"])
-        print("Próxima manutenção:", resultado["proxima_manutencao"])
+        print("Previsão de Manutenção:", resultado["proxima_manutencao"])
         print("Status da manutenção:", resultado["status"])
     else:
       print(resultados)
@@ -47,7 +47,7 @@ while True:
         print("\nEquipamento:", resultado["nome"])
         print("Manutenção:", resultado["tipo"])
         print("Última manutenção:", resultado["ultima_manutencao"])
-        print("Próxima manutenção:", resultado["proxima_manutencao"])
+        print("Previsão de Manutenção:", resultado["proxima_manutencao"])
         print("Status da manutenção:", resultado["status"])
     else:
       print(resultados)
