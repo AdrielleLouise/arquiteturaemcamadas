@@ -1,6 +1,6 @@
 # Trabalho de Arquitetura em camadas
-# Adrielle Louise Rocha Braz - 1262223172
-# Paula Alessandra de Souza Fernandes - 1262223225
+## Adrielle Louise Rocha Braz - 1262223172
+## Paula Alessandra de Souza Fernandes - 1262223225
 
 ---
 
